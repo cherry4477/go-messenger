@@ -8,6 +8,3 @@ echo "Fix formatting"
 go fmt ./...
 echo "Running Tests"
 go test ./... 
-echo "Building source"
-go build
-echo "Build Successful"
